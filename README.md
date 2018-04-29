@@ -4,6 +4,7 @@ The project has been programmed in IronPython to teach Architecture students how
 The componants can only work inside the IronPython Editor in Rhino3d
 
 **Componant Inputs**
+List of connected curves
 
-
-**Componant Inputs**
+**Componant Outputs**
+list of cylinders that defines the joints and beams 3D geometry
